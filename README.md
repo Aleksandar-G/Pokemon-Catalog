@@ -1,16 +1,14 @@
-* Pokemon Catalogue
+# Pokemon Catalogue
 
-* Aleksandar Georgiev, Aleksandar Ivanov, Kaloyan Aleksiev
+## Aleksandar Georgiev, Aleksandar Ivanov, Kaloyan Aleksiev
 
-* Introduction
+# Introduction
 
 A typescript React single page application using the Pokeapi public pokemon API to display/filter different pokemons.
 Pokeapi can be found here : https://pokeapi.co/
 
-* How to use
+# How to use
 
-To start the project, run `npm start`
-
-To build a production solution, run `npm build`
-
-To test, run `npm test`
+* To start the project, run `npm start`
+* To build a production solution, run `npm build`
+* To test, run `npm test`
